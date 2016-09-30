@@ -16,14 +16,16 @@
 }
 .box-one {
 	background: grey;
-	width: 150px;
-	height: 150px;
+	width: 200px;
+	height: 200x;
 	display: left;
+	border: 1px
 }
 
 .box-two {
 	background: black;
-	width: 150px;
-	height: 150px;
-	display: center;
+	width: 200px;
+	height: 200px;
+	display: right;
+	border: 1px;
 }
