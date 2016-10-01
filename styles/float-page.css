@@ -14,8 +14,10 @@ main {
 .nebula1 {
 	float: left;
 	width: 100px;
+	margin-left: 10px;
 }
 .nebula2{
 	float: right;
 	width: 100px;
+	margin-right: 10px;
 }
