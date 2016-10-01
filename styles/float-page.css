@@ -4,6 +4,7 @@ body {
 }
 
 main {
+  float: left;
   padding-left: 90px;
   padding-right: 90px;
   max-width: 1000px;
