@@ -4,10 +4,18 @@ body {
 }
 
 main {
-  float: left;
   padding-left: 90px;
   padding-right: 90px;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.nebula1 {
+	float: left;
+	width: 100px;
+}
+.nebula2{
+	float: right;
+	width: 100px;
 }
